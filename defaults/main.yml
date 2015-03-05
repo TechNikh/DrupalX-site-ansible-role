@@ -24,7 +24,7 @@ drupal_mysql_password: password
 drupal_mysql_database: drupal
 
 # The Drupal git url from which Drupal will be cloned.
-drupal_repo_url: "http://git.drupal.org/project/drupal.git"
+drupal_repo_url: "https://github.com/TechNikh/DrupalX-site.git"
 
 # Whether to update the repo above to the latest commit in the branch identified
 # by `drupal_core_version` (the git tag or branch) whenever this playbook runs.
